@@ -1,0 +1,101 @@
+{
+    "header": {
+        "home": "Asosiy",
+        "news": "Yangiliklar",
+        "products": "Mahsulotlar",
+        "about": "Biz haqimizda",
+        "contact": "Bog'lanish"
+    },
+    "hero": {
+        "text": "Tekgrupga xush kelibsiz",
+        "title1": "Sog‘lom dunyo uchun harakat qilamiz!",
+        "title2": "Farmasevtika industriyasida yetakchi distribyutorlardan birimiz",
+        "title3": "Bizning Hamkorlar",
+        "title4": "Mahsulotlari",
+        "title5": "Yangiliklar",
+        "title6": "Nima Qilamiz?",
+        "title7": "Bizning Sertifikatlarimiz",
+        "title8": "Biz bilan bog'laning",
+        "desc1": "Biz bilan, faqat dori-darmon emas, balki keng qamrovli xizmatlarni ham kashf eting.",
+        "desc2": "Eng yaxshi mijozlar uchun eng yaxshi xizmatlar.",
+        "desc3": "Biz eng sifatli, xavfsiz va ishonchli xizmat ko’rsatganimiz uchun hamkorlarimiz bizdan mamnunlar",
+        "desc4": "Sog‘lom dunyo uchun harakat qilamiz!",
+        "desc5": "Tek Grup Dori-darmonlar, tibbiy asbob-uskunalar, kosmetika va gigiena mahsulotlari bo‘yicha keng assortimentni taqdim etadi. Yuqori darajadagi imkoniyatlar va saqlash sharoitlarimiz orqali, biz barcha mahsulotlarni mijozlarimizga xavfsiz va ishonchli tarzda yetkazib beramiz.",
+        "desc6": "Bizning xizmatlar sizga qiziqmi? Biz bilan bog'laning!",
+        "button1": "Ko'proq Bilish",
+        "button2": "Bog'lanish"
+    },
+    "number": {
+        "desc":"yil",
+        "desc1": "Bozorda mavjud",
+        "desc2": "Eksklyuziv preparatlar",
+        "desc3": "Ortiq ishchilar",
+        "desc4": "Hamkorlar",
+        "desc5": "Doimiy mijozlar​",
+        "desc6": "Omborlarning maydoni"
+    },
+    "service": {
+        "title1": "Nega Bizni tanlashadi",
+        "title2": "Biz nimalar bilan shugu'llanamiz",
+        "desc1": "Eng yaxshi mijozlar uchun eng yaxshi xizmatlar.",
+        "desc2": "« Tek Grup Saglik Hizmetleri » XK MCHJ tomonidan taqdim etiladigan xizmatlar",
+        "subtitle1": "Ishonchlilik",
+        "subtitle2": "Yuqori darajada xavfsiz",
+        "subtitle3": "Vaqt bilan sinalgan sifat",
+        "subtitle4": "Farmatsevtik mahsulotlarni saqlash va yetkazib berish.",
+        "subtitle5": "Dori-darmonlar, tibbiy asbob-uskunalar, kosmetika va gigiena mahsulotlarini marketing va realizatsiya qilish;"
+    },
+    "aboutUs": {
+        "title": "Biz kimmiz?",
+        "heading": "Biz bilan, faqat dori-darmon emas, balki keng qamrovli xizmatlarni ham kashf eting.",
+        "desc1": "«Tek Grup Saglik Hizmetleri» Mas’uliyati Cheklangan Jamiyat Xorijiy Korxonasi 2018 yilda tashkil etilgan bo‘lib, TEKGRUP xalqaro tanilgan holdingi tarkibiga kiradi va 10 yildan ortiq tajribaga ega. U 2023 yildan boshlab O‘zbekiston farmatsevtik tarqatish bozorida faoliyat yuritmoqda.",
+        "desc2": "Kompaniya o‘z faoliyatini «Yaxshi raqobat» prinsipi asosida amalga oshirib, bu prinsipga amal qilib, barcha xodimlar va manfaatdor tomonlarga nisbatan shu siyosatni davom ettirmoqda. Farmatsevtik mahsulotlar assortimentini texnologiyalar rivojlanishi va aholining ehtiyojlarini hisobga olgan holda kengaytirmoqda. Yaxshi rivojlangan infratuzilma va innovatsion, ijodiy mutaxassislar jamoasi yordamida, ular farmatsevtika va sog‘liqni saqlash sohasida professional bilim va ko‘nikmalarini doimiy ravishda oshirib bormoqda."
+    },
+    "news": {
+        "title":"Yangiliklar",
+        "headTitle": "I Xalqaro ilmiy-amaliy sammit",
+        "very": "aprel 30 , 2025",
+        "comment": "No comments",
+        "desc": "2025-yil 25–26 aprel kunlari Toshkent shahrida “ZAMONAVIY INTERVENTSION KARDIOLOGIYA: NAZARIYADAN AMALIYOTGA” mavzusida o‘tkazilgan I xalqaro ilmiy-amaliy sammitda kompaniyamiz faxr bilan ishtirok etdi.",
+        "desc1": "Ushbu nufuzli tadbir O‘zbekiston Respublikasi Sog‘liqni saqlash vazirligi huzuridagi tibbiy xodimlarning malakasini oshirish markazi tomonidan, interventsion kardiologiya va aritmologiya yo‘nalishidagi yetakchi mutaxassislar ishtirokida tashkil etildi.",
+        "desc2": "Sammitda biz sohadagi eng so‘nggi ilmiy yutuqlar va tajribalar bilan yaqindan tanishish, yetakchi kardiologlar va tibbiyot mutaxassislari bilan fikr almashish imkoniga ega bo‘ldik.",
+        "button": "Ko'proq o'qish",
+        "headTitle2": "«Tek Grup Sağlık Hizmetleri» ISO 9001:2015 Sertifikatini Qo‘lga Kiritdi!",
+        "very2": "Mart 13, 2025",
+        "desc3": "Biz faxr bilan e’lon qilamiz: «Tek Grup Sağlık Hizmetleri» kompaniyasi 2025-yil fevral oyida ISO 9001:2015 sifat menejmenti tizimi sertifikatiga ega bo‘ldi!",
+        "desc4": "Ushbu sertifikat kompaniyamizning yuqori sifat standartlariga rioya qilishini, mijozlarimizga ishonchli va samarali xizmat ko‘rsatishga intilishini tasdiqlaydi. Biz doimo yetkazib berish jarayonlarimizni takomillashtirish, farmatsevtika mahsulotlarini xavfsiz va ishonchli yetkazish yo‘lida mehnat qilamiz.«Tek Grup Sağlık Hizmetleri» sifat va innovatsiyaga sodiq holda, sizga eng yaxshi mahsulot va xizmatlarni taqdim etishda davom etadi!",
+        "headTitle3": "«Tek Grup Saglik Hizmetleri» MCHJ XK",
+        "very3": "Avgust 5, 2024",
+        "desc5": "Tek Grup jamoasi 2023-yil iyul-avgust oylarida o’z jamoasiga treninglar o’tkazdi.",
+        "desc6": "Unda hamkor kompaniyalar o’zlarining dori vositalarini tanishtirib o’tdilar.",
+        "headTitle4": "2024-yil 8-oktabrdagi Konferensiyadan lavhalar",
+        "very4": "Avgust 5, 2024",
+        "desc7": "Uchrashuv davomida tibbiyotdagi yangiliklar, yurtimizdagi ushbu sohadagi o’zgarishlar yuzasidan suhbatlar o’tkazildi",
+        "headTitle5": "Tekgrup nima bilan shugullanadi",
+        "very5": "Avgust 4, 2024",
+        "desc8": "«Tek Grup Saglik Hizmetleri» Mas’uliyati Cheklangan Jamiyat Xorijiy Korxonasi 2018 yilda tashkil etilgan bo‘lib, TEKGRUP xalqaro tanilgan holdingi tarkibiga kiradi va 10 yildan ortiq tajribaga ega. U 2023 yildan boshlab O‘zbekiston farmatsevtik tarqatish bozorida faoliyat yuritmoqda.",
+        "desc9": "«Tek Grup Saglik Hizmetleri» Mas’uliyati Cheklangan Jamiyat Xorijiy Korxonasi 2018 yilda tashkil etilgan bo‘lib, TEKGRUP xalqaro tanilgan holdingi tarkibiga kiradi va 10 yildan ortiq tajribaga ega. U 2023 yildan boshlab O‘zbekiston farmatsevtik tarqatish bozorida faoliyat yuritmoqda.",
+        "desc10": "Kompaniya o‘z faoliyatini «Yaxshi raqobat» prinsipi asosida amalga oshirib, bu prinsipga amal qilib, barcha xodimlar va manfaatdor tomonlarga nisbatan shu siyosatni davom ettirmoqda. Farmatsevtik mahsulotlar assortimentini texnologiyalar rivojlanishi va aholining ehtiyojlarini hisobga olgan holda kengaytirmoqda. Yaxshi rivojlangan infratuzilma va innovatsion, ijodiy mutaxassislar jamoasi yordamida, ular farmatsevtika va sog‘liqni saqlash sohasida professional bilim va ko‘nikmalarini doimiy ravishda oshirib bormoqda.",
+        "desc11":"Shunga o'xshash yangliklar"
+    },
+    "contact": {
+        "desc":"Bizning xizmatlar sizga qiziqmi? Biz bilan bog'laning!",
+        "title": "Hoziroq bog'laning",
+        "desc1": "Kadrlar bo'limi",
+        "desc2": "Sotuv bo'limi",
+        "desc3": "Qo'shimcha ma'lumot uchun",
+        "headTitle": "Bizga xabar qoldiring",
+        "name": "Ismingiz",
+        "email": "Email",
+        "tel": "Raqamingiz",
+        "message": "Xabar",
+        "button": "Xabarni yuborish"
+    },
+    "footer": {
+        "title1": "Bizga bog'laning",
+        "menyuTitle": "Toshkent sh. Bektemir tumani",
+        "menyuTitle2": "Oltintopgan ko’chasi 40-uy",
+        "email": "info.uz@tekgrup.net",
+        "contact": "Kontaktlar"
+    }
+}
