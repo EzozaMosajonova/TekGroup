@@ -10,7 +10,7 @@ const SingleNewsPage = () => {
   return (
     <div>
       <Helmet>
-        <title>{t('news.title')} | My Website</title>
+        <title>{t('news.title')}</title>
         <meta name="description" content={t('news.metaDesc')} />
         <meta property="og:title" content={t('news.title')} />
         <meta property="og:description" content={t('news.metaDesc')} />

@@ -9,7 +9,7 @@ const ContactPage = () => {
   return (
     <>
       <Helmet>
-        <title>{t('header.contact')} | My Website</title>
+        <title>{t('header.contact')}</title>
         <meta name="description" content={t('contact.desc')} />
         <meta property="og:title" content={t('header.contact')} />
         <meta property="og:description" content={t('contact.title')} />

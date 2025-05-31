@@ -14,7 +14,7 @@ const HomePages = () => {
   return (
     <div>
       <Helmet>
-        <title>{t('header.home')} | My Website</title>
+        <title>{t('header.home')}</title>
         <meta name="description" content={t('home.metaDesc')} />
         <meta property="og:title" content={t('header.home')} />
         <meta property="og:description" content={t('home.metaDesc')} />

@@ -10,7 +10,7 @@ const NewsPage = () => {
   return (
     <div>
       <Helmet>
-        <title>{t('header.news')} | My Website</title>
+        <title>{t('header.news')} </title>
         <meta name="description" content={t('news.metaDesc')} />
         <meta property="og:title" content={t('header.news')} />
         <meta property="og:description" content={t('news.metaDesc')} />

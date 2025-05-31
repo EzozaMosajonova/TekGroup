@@ -9,7 +9,7 @@ const AboutPage = () => {
   return (
     <>
       <Helmet>
-        <title>{t('header.about')} | My Website</title>
+        <title>{t('header.about')}</title>
         <meta name="description" content={t('aboutUs.desc1')} />
         <meta property="og:title" content={t('header.about')} />
         <meta property="og:description" content={t('aboutUs.desc2')} />
